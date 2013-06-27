@@ -1,0 +1,17 @@
+{
+  "name": "undefined",
+  "id": "undefined",
+  "version": "0.1.0",
+  "description": "Just require undefined & everything gonna be defined!",
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/undefined",
+  "keywords": ["undefined", "JS", "troll"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/undefined.js",
+    "web": "https://github.com/Gozala/undefined.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Gozala/undefined.js/issues/"
+  }
+}
