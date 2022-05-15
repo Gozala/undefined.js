@@ -2,6 +2,7 @@
   "name": "undefined",
   "id": "undefined",
   "version": "0.1.0",
+  "main": "undefined.js"
   "description": "Just require undefined & everything gonna be defined!",
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
   "homepage": "https://github.com/Gozala/undefined",
